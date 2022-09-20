@@ -12,6 +12,7 @@ Statistical Methods for Data Science Course
 - [Overview](#Overview)
 - [Motivation](#Motivation)
   - [Aim & Objective](#Aim---Objective)
+- [Contents](#Contents)
 - [Technologies Used](#Technologies-Used)
 - [Installation](#Installation)
 - [License](#License)
@@ -43,6 +44,15 @@ Statistical Methods for Data Science Course
 - Objective: 
   - To create a statistical model that classifies patients into those who will develop heart disease in the future and those who will not based on the relevance of data variables. 
   -The insights gained by analyzing the statistical inference of each data variable to the target data will aid in establishing which factor or indicator is critical in causing heart disease.
+
+
+
+## Contents
+**(1) HeartDisease_Dataset.csv**
+  - Heart Disease dataset file in CSV format.
+
+**(2) HeartDisease_EDA-StatisticalAnalysis_R.ipynb**
+  - The main notebook containing the Python implementation codes (along with explanations) for the project.
 
 
 
