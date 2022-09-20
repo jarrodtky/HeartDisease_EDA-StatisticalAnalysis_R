@@ -14,9 +14,9 @@ Essentially, the insights gained by analyzing the statistical inference of each 
 **Keywords:** Data Science, Statistical & Inferential Analysis, Exploratory Data Analysis (EDA), Regression Analysis, Heart Disease.
 
 ## Table of Content
-- [Abstract (Overview)](#Abstract-(Overview))
+- [Abstract (Overview)](#Abstract--Overview-)
 - [Motivation](#Motivation)
-  - [Aim & Objective](#Aim-&-Objective)
+  - [Aim & Objective](#Aim---Objective)
   - [Technical Aspect](#Technical-Aspect)
 - [Technologies Used](#Technologies-Used)
 - [Installation](#Installation)
