@@ -9,9 +9,9 @@ Statistical Methods for Data Science Course
 
 
 ## Table of Content
-- [Overview](#Overview)
+- [Overview](#Project-Overview)
 - [Motivation](#Motivation)
-  - [Aim & Objective](#Aim---Objective)
+  - [Aim & Objective](#Aim-&-Objective)
 - [Contents](#Contents)
 - [Technologies Used](#Technologies-Used)
 - [Installation](#Installation)
