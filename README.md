@@ -21,7 +21,7 @@ Statistical Methods for Data Science Course
 
 
 ## Project Overview
-- Use staitstical analyses to identify which patient has heart disease or not based on the features like Age, Sex, ChestPainType, etc.
+- Use staitstical analyses to identify which features (Age, Sex, ChestPainType, etc.) have any significance for heart disease patients.
 - The dataset can be obtained [here from Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?datasetId=1582403&sortBy=voteCount&searchQuery=logi).
 - [RStudio(R)](https://rstudio-education.github.io/hopr/starting.html) is used to assist this project with statistical analyses by extracting important insights using: 
   - Computational Statistics
@@ -42,8 +42,8 @@ Statistical Methods for Data Science Course
 - Aim: 
   - To improve the process of analyzing patients’ heart disease in the healthcare industry to allow earlier detection and avoidance of heart disease and morbidity. 
 - Objective: 
-  - To create a statistical model that classifies patients into those who will develop heart disease in the future and those who will not based on the relevance of data variables. 
-  -The insights gained by analyzing the statistical inference of each data variable to the target data will aid in establishing which factor or indicator is critical in causing heart disease.
+  - To create a statistical model that identifies which factors/data variables are significant based on the relevance of statistical inferences. 
+  - The insights gained by analyzing the statistical inference of each data variable to the target data will aid in establishing which factor or indicator is critical in causing heart disease.
 
 
 
