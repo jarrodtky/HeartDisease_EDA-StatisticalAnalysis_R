@@ -4,9 +4,9 @@
 
 # HeartDisease_EDA-StatisticalAnalysis_R
 
-Statistical Methods for Data Science Course
+**Course:** Statistical Methods for Data Science 
 
-**Topic: Statistical Methods for Heart Disease & Indicators**
+**Topic:** Statistical Methods for Heart Disease & Indicators
 
 **Keywords:** Data Science, Statistical & Inferential Analysis, Exploratory Data Analysis (EDA), Regression Analysis, Heart Disease.
 
