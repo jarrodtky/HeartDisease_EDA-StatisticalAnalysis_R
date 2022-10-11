@@ -55,8 +55,8 @@ Statistical Methods for Data Science Course
 **(1) HeartDisease_Dataset.csv**
   - Heart Disease dataset file in CSV format.
 
-**(2) HeartDisease_EDA-StatisticalAnalysis_R.R**
-  - The main file containing the R implementation codes (along with explanations) for the project.
+**(2) HeartDisease_EDA-StatisticalAnalysis_R Folder**
+  - Contains the main R program containing implementation codes (along with explanations) for the project.
 
 
 
